@@ -64,7 +64,7 @@ $.. ==> "1: PersonalFries added"
 jshell> piz.eat(0, 3);
 $.. ==> "0: BeefPizza (3 eater(s)) with 1666g sugar intake each"
 jshell> piz.eat(1, 1);
-$.. ==> "1: PersonalFries with 0g sugar intake each"
+$.. ==> "1: PersonalFries with 250g sugar intake each"
 jshell> piz.addPersonalFries();
 $.. ==> "2: PersonalFries added"
 jshell> piz.eat(1, 4);
