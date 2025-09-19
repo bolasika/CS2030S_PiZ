@@ -111,12 +111,9 @@ jshell> piz.eat(2, 1)
 $.. ==> "2: BeefPizza for 1 eater(s) with 5000g sugar intake each"
 ```
 
-### Warning
+### Part 2 details
 
-There would be part 2.
-
-
-## Part 2
+There would be part 2. (of course)
 
 The question for part 2 is in the file named `part2.md`.  
 you will need to pass all test cases on task 1, run the test case 
