@@ -1,8 +1,8 @@
-# CS2030S 10B Lab extra exercise 10B
+# CS2030S 10B Lab extra exercise
 
 ## PiZ - Java OOP Practice.
 
-This repository contains a practice lab exercise for 10B students, inspired by the Lab Exercise Ex3.s
+This repository contains a practice lab exercise for 10B students, inspired by the Lab Exercise Ex3.
 Students implement a food ordering and tracking app called PiZ.\n
 Begin off with `part1.md`.
 
