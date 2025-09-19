@@ -79,7 +79,7 @@ the following operations:
         See the sample run for more information
     - **Usage:** `piz.addBeefPizza()`
 
-- Implement the method `eat`.  The method accepts 3 parameters.
+- Implement the method `eat`.  The method accepts 2 parameters.
     - Par #1: `idx` is a no-negative integer.  It is the index of the food.
         You are guaranteed that this is a valid index. In other words, the
         food is available and no uesr has eaten it yet.    
